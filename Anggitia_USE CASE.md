@@ -1,0 +1,2 @@
+Sensor Modul Camera Raspberry Pi Rev 1.3 adalah modul ini digunakan untuk menambahkan fasilitas kamera ke board Raspberry Pi. Sensor modul ini dapat harus disertai dengan script python untuk dapat digunakan.Settingnya cukup mudah, tinggal aktifkan / enable Camera di configuration Raspberry Pi dan restart.
+[USE CASE] Kami menggunakan modul Camera Raspberry Pi untuk memantau posisi bayi dan , nantinya sensor ini akan terhubung ke sebuah website dan user akan dapat melihat kondisi bayinya tersebut secara real time melalui sensor modul kamera terebut. 
